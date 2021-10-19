@@ -1,0 +1,26 @@
+{
+  "name": "agtsurlfiltersample",
+  "version": "1.0.0",
+  "description": "A sample demonstrating AdGuard tsurlfilter library usage.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mizzick/AGTsUrlFilterSample.git"
+  },
+  "keywords": [
+    "tsurlfilter"
+  ],
+  "author": "mizzick",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Mizzick/AGTsUrlFilterSample/issues"
+  },
+  "homepage": "https://github.com/Mizzick/AGTsUrlFilterSample#readme",
+  "dependencies": {
+    "@adguard/tsurlfilter": "^0.7.22"
+  }
+}
